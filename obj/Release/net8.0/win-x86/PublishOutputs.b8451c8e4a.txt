@@ -1,0 +1,5 @@
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\publish\Fanya.SimpleProjectsSaver.exe
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\publish\Fanya.SimpleProjectsSaver.dll
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\publish\Fanya.SimpleProjectsSaver.deps.json
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\publish\Fanya.SimpleProjectsSaver.runtimeconfig.json
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\publish\Fanya.SimpleProjectsSaver.pdb

@@ -1,0 +1,15 @@
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\bin\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.exe
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\bin\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.deps.json
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\bin\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.runtimeconfig.json
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\bin\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.dll
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\bin\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.pdb
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\obj\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\obj\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.AssemblyInfoInputs.cache
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\obj\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.AssemblyInfo.cs
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\obj\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.csproj.CoreCompileInputs.cache
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\obj\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.sourcelink.json
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\obj\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.dll
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\obj\Release\net8.0\win-x86\refint\Fanya.SimpleProjectsSaver.dll
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\obj\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.pdb
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\obj\Release\net8.0\win-x86\Fanya.SimpleProjectsSaver.genruntimeconfig.cache
+D:\projectsasdasdasd\C#\Fanya\Fanya.SimpleProjectsSaver\obj\Release\net8.0\win-x86\ref\Fanya.SimpleProjectsSaver.dll
